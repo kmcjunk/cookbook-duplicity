@@ -17,6 +17,8 @@
 # limitations under the License.
 #
 
+include_recipe 'python'
+
 python_pip 'pyrax'
 python_pip 'lockfile'
 package 'librsync-dev'

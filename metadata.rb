@@ -6,3 +6,4 @@ description      'Installs/Configures duplicity'
 long_description 'Installs/Configures duplicity'
 version          '0.1.0'
 
+depends          'python'
