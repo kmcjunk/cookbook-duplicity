@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-include_recipe 'python'
+include_recipe 'poise-python'
 
 python_pip 'pyrax'
 python_pip 'lockfile'
